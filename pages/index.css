@@ -1,0 +1,18 @@
+/*common files*/
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+
+/*page*/
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__wrapper/page__wrapper.css);
+@import url(../blocks/page/__title/page__title.css);
+
+/*gallery*/
+@import url(../blocks/gallery/gallery.css);
+@import url(../blocks/gallery/_columns/gallery_columns_auto.css);
+@import url(../blocks/gallery/_columns/gallery_columns_two.css);
+
+/*card*/
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/_featured/card_featured.css);
+
